@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-Array" />
+        <module name="03-InsertSort" />
+        <module name="05-Stack" />
+        <module name="07-LinkedList" />
+        <module name="06-Queue" />
+        <module name="01-LinearSearch" />
+        <module name="08-MergeSort" />
+        <module name="02-SelectionSort" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SelectionSort" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
